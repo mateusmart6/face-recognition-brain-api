@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: <your-service-name>
+    name: face-recognition-brain-api
     env: node
     startCommand: node server.js
