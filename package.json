@@ -1,10 +1,10 @@
 {
   "name": "node",
   "version": "1.0.0",
-  "main": "src/script.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon src/script.js"
+    "start": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
